@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alvessophia.github.io/readme-af76pu/sitemap.xml
